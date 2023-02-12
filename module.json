@@ -1,12 +1,12 @@
 {
-	"disableAutoUpdate": false,
-	"name": "auto-fishing",
-	"author": "Lambda11/ArtexLib",
-	"description": "Auto-fishes, auto-crafts bait, auto-dismantles fish for you",
-	"options": {
-		"niceName": "auto-fishing",
-		"guiName": "auto-fishing"
-	},
-	"servers": ["https://raw.githubusercontent.com/ArtexLib/auto-fishing/master/"],
-	"supportUrl": "https://github.com/ArtexLib/auto-fishing/issues"
+    "disableAutoUpdate": false,
+    "name": "auto-fishing",
+    "author": "Lambda11/ArtexLib",
+    "description": "Auto-fishes, auto-crafts bait, auto-dismantles fish for you",
+    "options": {
+        "niceName": "auto-fishing",
+        "guiName": "auto-fishing"
+    },
+    "servers": ["https://raw.githubusercontent.com/artexlib/auto-fishing/master/"],
+    "supportUrl": "https://github.com/artexlib/auto-fishing/issues"
 }
