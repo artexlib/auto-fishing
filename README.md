@@ -28,8 +28,8 @@ Use command `fish` (or `!fish`) then follow instruction as simple as just throwi
 
 
 ## Installation
-put `defs` insides to `toolbox\node_modules\data\definitions\` folder  
-put `opcodes` insides to `toolbox\node_modules\data\opcodes\` folder
+put `defs` insides to `toolbox\data\definitions\` folder  
+put `opcodes` insides to `toolbox\data\opcodes\` folder
 
 `ERROR: Error: [dispatch] hook: unmapped packet ` means you have no opcodes installed correctly for your current game version  
 `unsupported packet ` means you have no defs installed correctly  
