@@ -1,6 +1,6 @@
 <img src=http://u.cubeupload.com/Owyn/lemmefish.jpg>
 
-# Let-me-Fish
+# auto-fishing for Private Servers
 TERA-proxy module that mass-auto-fishes fishes, auto-crafts bait when out of bait, and auto-dismantles fish when inventory gets full.
 
 Emulates human-like behavior mostly, abides human-like delays for actions based on fishing diffculty, retries if something goes wrong, works well even if the game is very limited in CPU resources and minimized.
