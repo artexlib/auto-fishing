@@ -1,3 +1,0 @@
-uint32 counter # times triggered
-uint32 unk
-bool success

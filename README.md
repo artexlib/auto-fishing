@@ -27,14 +27,6 @@ Use command `fish` (or `!fish`) then follow instruction as simple as just throwi
 - you can set a different recipe after using `fish` command but before throwing your rod any time
 
 
-## Installation
-put `defs` insides to `toolbox\data\definitions\` folder  
-put `opcodes` insides to `toolbox\data\opcodes\` folder
-
-`ERROR: Error: [dispatch] hook: unmapped packet ` means you have no opcodes installed correctly for your current game version  
-`unsupported packet ` means you have no defs installed correctly  
-
-
 ## Notes
 
 - Stops when you get 10k fishlets (if you want to auto-discard fishlets (when leveling up rod for example) - use https://github.com/Lambda11/Fish-Deleter )
